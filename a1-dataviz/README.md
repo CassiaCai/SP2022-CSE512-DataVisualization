@@ -4,6 +4,6 @@
 
 For more information about the dataset, including download links for CSV and JSON formats, see https://observablehq.com/@uwdata/hours-of-sunshine.
 
-![a1_image](https://user-images.githubusercontent.com/52092892/162022761-41fb48cb-bb11-4386-b705-a742dadca0c2.png)
+![a1_image](https://user-images.githubusercontent.com/52092892/162023770-e27c34f8-cd8a-44b8-a181-73a1f0b68e2a.png)
 
 ### Write-up
